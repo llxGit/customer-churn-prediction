@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+models/*.joblib
+data/processed/
+
+!models/.gitkeep
+!data/processed/.gitkeep
+
